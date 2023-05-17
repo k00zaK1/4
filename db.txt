@@ -1,4 +1,3 @@
-Krzysztof 20
-Janusz 40
+
 Krzysztof Polek 20
 Janusz  Walczuk  40
