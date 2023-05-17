@@ -11,7 +11,7 @@ import java.io.IOException;
 
 class Main {
   public static void main(String[] args) {
-    Scanner scan = new Scanner()
+    Scanner scan = new Scanner() 
   
     try {
       Service s = new Service();
