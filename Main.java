@@ -31,18 +31,7 @@ class Main {
           
         }
     
-      case 3:
-    try {
-      Service s = new Service();
-      s.addStudent(new Student("Krzysztof", "Polek", 20));
-      s.addStudent(new Student("Janusz", " Walczuk ", 40));
-
-      var students = s.getStudents(); 
-      for(Student current : students) {
-        System.out.println(current.ToString());
-      }
-    } catch (IOException e) {
+      
     }
     }
   }
-}
